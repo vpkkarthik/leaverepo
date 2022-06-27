@@ -1,0 +1,61 @@
+hosts:all
+remote_users:ecr-usi
+become:yes
+tasks:
+-name:anyname
+
+ yum:
+  name:http
+  state:present
+ tags:
+   -httpd
+
+
+
+   -i
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+
