@@ -13,6 +13,9 @@ tasks:
  tags:
    -httpd
 
+terraform 
+dockerfile
+docker-compose
 
 
    -i
